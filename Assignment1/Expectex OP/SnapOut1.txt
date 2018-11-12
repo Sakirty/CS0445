@@ -1,0 +1,64 @@
+java Snap 50
+
+Welcome to the Game of Snap!
+
+
+Now dealing the cards to the players...
+
+
+Here is Player 1's face-down pile:
+Contents:
+
+Six-of-Hearts Eight-of-Hearts Ace-of-Hearts Three-of-Spades Ten-of-Spades Three-of-Hearts Queen-of-Hearts Eight-of-Spades Jack-of-Spades Ace-of-Clubs Six-of-Clubs Eight-of-Clubs Five-of-Spades Five-of-Hearts Nine-of-Spades Seven-of-Diamonds Seven-of-Clubs Jack-of-Diamonds Two-of-Hearts Ten-of-Clubs Four-of-Clubs Three-of-Clubs Ten-of-Diamonds Four-of-Spades Nine-of-Hearts Seven-of-Spades 
+
+Here is Player 2's face-down pile:
+Contents:
+
+Five-of-Clubs Ace-of-Spades Five-of-Diamonds Two-of-Clubs Nine-of-Clubs Ten-of-Hearts Two-of-Spades King-of-Hearts Nine-of-Diamonds Queen-of-Diamonds Four-of-Diamonds Ace-of-Diamonds Jack-of-Clubs Six-of-Spades Queen-of-Spades Six-of-Diamonds Queen-of-Clubs Seven-of-Hearts King-of-Clubs Two-of-Diamonds King-of-Spades Jack-of-Hearts Three-of-Diamonds Four-of-Hearts Eight-of-Diamonds King-of-Diamonds 
+
+
+Starting the game!
+
+
+Rnd #0: No Match! 
+Rnd #1: No Match! 
+Rnd #2: No Match! 
+Rnd #3: No Match! 
+Rnd #4: No Match! 
+Rnd #5: No Match! 
+Rnd #6: No Match! 
+Rnd #7: No Match! 
+Rnd #8: No Match! 
+Rnd #9: No Match! 
+Rnd #10: No Match! 
+Rnd #11: No Match! 
+Rnd #12: No Match! 
+Rnd #13: No Match! 
+Rnd #14: No Match! 
+Rnd #15: No Match! 
+Rnd #16: No Match! 
+Rnd #17: No Match! 
+Rnd #18: No Match! 
+Rnd #19: No Match! 
+Rnd #20: No Match! 
+Rnd #21: No Match! 
+Rnd #22: No Match! 
+Rnd # 23: Player 2 wins
+	Four-of-Spades matches Four-of-Hearts of Player 1 (24 cards)
+Rnd #24: No Match! 
+Rnd #25: No Match! 
+Rnd #26: No Match! 
+Rnd #27: No Match! 
+Rnd #28: No Match! 
+Rnd #29: No Match! 
+Rnd #30: No Match! 
+Rnd #31: No Match! 
+Rnd #32: No Match! 
+Rnd #33: No Match! 
+Rnd #34: No Match! 
+Rnd #35: No Match! 
+Rnd #36: No Match! 
+Rnd # 37: Player 2 wins
+	Seven-of-Spades matches Seven-of-Clubs of Player 1 (38 cards)
+
+Player 1 ran out of cards and Player 2 wins!

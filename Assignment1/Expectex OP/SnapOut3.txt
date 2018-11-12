@@ -1,0 +1,27 @@
+Welcome to the Game of Snap!
+
+Now dealing the cards to the players...
+
+Here is Player 1's face-down pile:
+Contents:
+Six-of-Clubs Jack-of-Spades Jack-of-Hearts King-of-Hearts Jack-of-Diamonds Three-of-Spades Queen-of-Clubs Five-of-Spades Ace-of-Spades Jack-of-Clubs Two-of-Spades Ten-of-Diamonds King-of-Spades King-of-Clubs Six-of-Diamonds Two-of-Diamonds Nine-of-Spades Two-of-Clubs Six-of-Hearts Eight-of-Diamonds Eight-of-Hearts Ten-of-Clubs Five-of-Clubs Ace-of-Hearts Nine-of-Clubs Two-of-Hearts 
+
+Here is Player 2's face-down pile:
+Contents:
+Four-of-Spades Nine-of-Diamonds Ace-of-Diamonds Queen-of-Hearts Five-of-Hearts Eight-of-Spades Seven-of-Diamonds Four-of-Hearts Queen-of-Spades Ten-of-Spades Seven-of-Spades Three-of-Diamonds Four-of-Diamonds Six-of-Spades Four-of-Clubs Eight-of-Clubs Seven-of-Hearts Five-of-Diamonds Queen-of-Diamonds Ace-of-Clubs Seven-of-Clubs King-of-Diamonds Three-of-Clubs Three-of-Hearts Nine-of-Hearts Ten-of-Hearts 
+
+Starting the game!
+
+Rnd #0: No Match! 
+Rnd #1: No Match! 
+Rnd #2: No Match! 
+Rnd #3: No Match! 
+Rnd #4: No Match! 
+Rnd #5: No Match! 
+Rnd #6: No Match! 
+Rnd #7: No Match! 
+Rnd #8: No Match! 
+Rnd #9: No Match! 
+
+After 10 rounds:
+	A tie! 26 cards vs. 26 cards.
